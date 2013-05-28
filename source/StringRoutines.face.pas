@@ -1,0 +1,1 @@
+function GetByteLength(const aString: String): Integer; inline;
